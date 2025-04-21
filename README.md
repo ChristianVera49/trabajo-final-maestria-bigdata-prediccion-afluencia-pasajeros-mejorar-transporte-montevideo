@@ -17,7 +17,7 @@ El objetivo principal es optimizar la asignación de la flota de ómnibus, mejor
 
 
 **Repositorio del proyecto:**
-
+https://github.com/ChristianVera49/trabajo-final-maestria-bigdata-prediccion-afluencia-pasajeros-mejorar-transporte-montevideo.git
 
 **Link hacia los Datos:**
 https://drive.google.com/drive/folders/1U8p0sh6t1CwumjT4CvGUwTJJeZZUamA6?usp=sharing
