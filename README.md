@@ -3,7 +3,6 @@
 ### Facultad de Ingeniería
 
 # Predicción de afluencia de pasajeros para mejorar la gestión del transporte urbano en Montevideo 
-## Entregado como requisito para la obtención del título de Máster en Big Data
 
 **Trabajo realizado por:**
 - Christian Vera
